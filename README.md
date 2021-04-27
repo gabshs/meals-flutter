@@ -66,7 +66,7 @@ Além disto é bom ter um editor para trabalhar com o código como [VSCode](http
 $ git clone git@github.com:gabshs/meals-flutter.git
 
 # Acesse a pasta do projeto no terminal/cmd
-$ cd bin2dec
+$ cd meals-flutter
 
 # Execute o programa
 $ flutter run lib/main.dart
